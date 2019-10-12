@@ -1,6 +1,7 @@
 ---
 --- Created by yangfan
 --- DateTime: 2019/10/8 16:49
+--- 在《百世文华录》这个项目中，用下面的方法来构建class以实现lua的oop编程。
 ---
 
 --执行构造函数 by.yangfan -19-9-28
